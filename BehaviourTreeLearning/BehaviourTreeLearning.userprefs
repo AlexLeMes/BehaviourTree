@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{38D47E93-697E-6FCC-53D7-D103BF4B3F08}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/behaviours/Patrol.cs">
+    <Files>
+      <File FileName="Assets/scripts/BehaviourTree.cs" Line="15" Column="41" />
+      <File FileName="Assets/scripts/Node.cs" Line="7" Column="49" />
+      <File FileName="Assets/scripts/Leaf.cs" Line="8" Column="5" />
+      <File FileName="Assets/scripts/CompositeNode.cs" Line="8" Column="5" />
+      <File FileName="Assets/scripts/Selector.cs" Line="18" Column="47" />
+      <File FileName="Assets/scripts/Sequencer.cs" Line="15" Column="13" />
+      <File FileName="Assets/scripts/behaviours/Attack.cs" Line="9" Column="39" />
+      <File FileName="Assets/scripts/behaviours/Patrol.cs" Line="10" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BehaviourTreeLearning PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
